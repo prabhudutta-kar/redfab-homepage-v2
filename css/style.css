@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat:400,500,600,700,800|Poppins|Raleway&display=swap');
+
+.imu {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)), url(http://haintheme.com/demo/wp/goto/wp-content/uploads/2018/05/netherland-768x506.jpeg)!important;
+    background-position: center!important;
+    background-size: cover!important;
+    background-repeat: no-repeat!important;
+    height: 490px!important;
+}
+
+.navbar {
+    border: 0!important;
+}
+
+.navbar a {
+    font-family: 'Montserrat', sans-serif!important;
+    font-weight: 500!important;
+    letter-spacing: 1px!important;
+}
+
+.dropdown-menu {
+    width: 230px!important;
+    border-radius: 5px!important;
+}
+
+.dropdown-menu a {
+    background-color: transparent!important;
+    font-size: 13px!important;
+}
+
+.dropdown-menu a:hover {
+    transform: translateX(5%)!important;
+    font-weight: 600!important;
+}
+
+.navbar-nav a:hover {
+    color: tomato!important;
+}
+
+.content {
+    padding-top: 50px!important;
+}
+
+.content h3 {
+    font-size: 50px!important;
+    font-family: 'Montserrat', sans-serif!important;
+    letter-spacing: 1px!important;
+}
+
+.content h5 {
+/*    font-size: 48px!important;*/
+    font-family: 'Montserrat', sans-serif!important;
+    font-weight: 400!important;
+    letter-spacing: 1px!important;
+}
+
+.input-group {
+    margin-left: 23%!important;
+}
+
+.container {
+    margin: 0 auto!important;
+}
+
+.form-control {
+    margin: 0 auto!important;
+    width: 600px!important;
+    height: 50px!important;
+}
+
+.col {
+     padding-left: 0px!important;
+     width: 30%!important;
+}
+
+.col .btn-danger {
+    float: right!important;
+    width: 100%!important;
+    height: 50px!important;
+    border-top-left-radius: 0px!important;
+    border-bottom-left-radius: 0px!important;
+    font-family: 'Montserrat', sans-serif!important;
+    letter-spacing: 1px!important;
+}
+
+::placeholder {
+    font-family: 'Montserrat', sans-serif!important;
+    font-size: 20px!important;
+    font-weight: 600!important;
+    color: rgb(230,230,230)!important;
+}
+
+/*
+.card h3 {
+    font-family: 'Montserrat', sans-serif!important;
+    font-size: 20px!important;
+}
+*/
+
+.subheading {
+    padding-left: 7px;
+    border-left: 5px solid tomato!important;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif!important;
+    font-size: 30px!important;
+    font-weight: 1000!important;
+    line-height: 1.25;
+    color: #333333!important;
+    margin-top: 27px;
+    margin-bottom: 23px;
+    letter-spacing: 1px;
+}
+
+.wdd-item {
+    border-radius: 5px!important;
+}
+
+.wdd-img {
+    border-radius: 5px!important;
+}
+
+.wddc-name {
+    font-family: 'Montserrat', sans-serif!important;
+    font-weight: 400!important;
+}
